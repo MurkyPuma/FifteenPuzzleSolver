@@ -6,7 +6,7 @@ Throughout this project, I had difficulties producing efficient code that did no
  
 being, my implementation could not solve past most 4x4. I wrote a bash script to test all boards, automatically go to next board after 30 seconds, and record which tests failed. This script and the addition of a runtime counter saved me lots of time by allowing me to quickly test the program on all boards, all at once, using different algorithms.
 <p align="center">
-  <img src="![image](https://github.com/MurkyPuma/FifteenPuzzleSolver/assets/74885743/f03ab45f-ff8d-45db-b4af-6a0f6add2955)" />
+  <img src="https://github.com/MurkyPuma/FifteenPuzzleSolver/assets/74885743/f03ab45f-ff8d-45db-b4af-6a0f6add2955" />
 </p>
 
 
